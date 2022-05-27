@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>resume</title>
+</head>
+<body style="margin-left: 25%; margin-right:25%;">
+    <center>
+        <h1 style="color:blue;">RESUME</h1> <br>
+        <img src="avtar.jfif" alt="not found"> <br>
+        <u  style="color: red;"><h4>ANISHA I. SHAIKH</h4></u>
+    </center>
+    <p>   
+        <b> Phone No:</b> 7990XXXX84 <br>
+        <b> Email:</b> <a href="gmail"> shaikhanisha@1010gmail.com</a>
+    </p>
+    <h4 style="background-color: lightgrey ; font-size: 20px;">CAREER GOAL</h4>
+    <p style="font-size: 20px;">To make signification contribution in an enviroment,which provides opportunities for Professional Growth & increasing responsibility.</p>
+    <h4 style="background-color: lightgrey ; font-size: 20px;">AREA OF INTEREST</h4>
+    <P style="font-size: 20px;">I would like to develop myself, into the areas in FullStack Developer.</P>
+    <h4 style="background-color:lightgrey ; font-size: 20px;">EDUCATION PROFILE</h4>
+    <P style="font-size: 20px;"> *Master In Computer Application(Running)</P>
+    <table border="1">
+        <tr>
+            <th bgcolor="EBC6BE">SR.NO</th>
+            <th bgcolor="EBC6BE">NAME OF EXAMINATION</th>
+            <th bgcolor="EBC6BE">UNIVERSITY/BOARD</th>
+            <th bgcolor="EBC6BE">PASSING YEAR</th>
+            <th bgcolor="EBC6BE">MARKS(%)</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>SSC</td>
+            <td>Gujarat Board</td>
+            <td>2015</td>
+            <td>65.66</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>HSC</td>
+            <td>Gujarat Board</td>
+            <td>2017</td>
+            <td>74.86</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>B.com</td>
+            <td>Gujarat University</td>
+            <td>2020</td>
+            <td>64.21</td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>MCA(Sem-1)</td>
+            <td>Gujarat Technology University</td>
+            <td>May-2021</td>
+            <td>CPI-9.18</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>MCA(Sem-2)</td>
+            <td>Gujarat Technology University</td>
+            <td>oct-2021</td>
+            <td>CPI-8.82</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>MCA(Sem-3)</td>
+            <td>Gujarat Technology University</td>
+            <td>Mar-2022</td>
+            <td>CPI-8.15</td>
+        </tr>
+    </table>
+    <h4 style="background-color: lightgrey ; font-size: 20px;">SOFTWARE KNOWLEDGE</h4>
+    <p style="font-size: 20px;">
+        <b>Language known :</b> Php,Android,Python,Javascript <br>
+        <b>Web Technologies:</b> Html,Css,Xml,Nodejs <br>
+        <b>Database :</b> Mysql, MongoDB <br>
+        <b>Operating System :</b>Window 7,8.2,10 pro
+    </p>
+    <h4 style="background-color: lightgrey ; font-size: 20px;">PROJECT SHORT VIDEO</h4>
+    <video controls autoplay loop  src="VID-20211029-WA0001.mp4" type="video/mp4"></video>
+    
+</body>
+</html>
